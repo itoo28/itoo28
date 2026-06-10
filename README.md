@@ -25,9 +25,9 @@ Fokus saat ini: **Web Development (Laravel)** & **Mobile Development (Flutter)**
 ## 📊 Statistik GitHub (Otomatis & Interaktif)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itoo28&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itoo28&layout=compact&theme=radical" alt="Top Langs" height="180px" />
 </p>
 
 <p align="center">
