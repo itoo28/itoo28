@@ -8,7 +8,7 @@ Fokus saat ini: **Web Development (Laravel)** & **Mobile Development (Flutter)**
 ## 🚀 Tentang Saya
 - ⚡ **Sedang Mendalami:** Optimasi arsitektur REST API di Laravel dan State Management (seperti Bloc/Provider) di Flutter.
 - 🛠️ **Proyek Saat Ini:** Mengembangkan aplikasi mobile yang terintegrasi dengan backend web.
-- 📫 **Hubungi Saya:** [Email Kamu](mailto:emailkamu@domain.com) / [LinkedIn](https://linkedin.com/in/username-kamu)
+- 📫 **Hubungi Saya:** [Email Kamu](mailto:suwitowito294@gmail.com) / [LinkedIn](https://linkedin.com/in/username-kamu)
 
 ---
 
@@ -31,5 +31,5 @@ Fokus saat ini: **Web Development (Laravel)** & **Mobile Development (Flutter)**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itoo28&theme=radical" alt="GitHub Streak" />
 </p>
