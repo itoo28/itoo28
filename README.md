@@ -1,7 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Itoo 👋</h1>
-  <p><b>Informatics Student @ Universitas Harapan Bangsa</b></p>
-  <p>Fokus pada pembangunan aplikasi web dan mobile yang bersih, responsif, dan berperforma tinggi.</p>
+  
+  <!-- ANIMASI TEKS MENGETIK (TYPING EFFECT) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Informatics+Student;Web+Developer+(Laravel);Mobile+Developer+(Flutter)" alt="Typing Effect" />
+
+  <p>Saya senang membangun aplikasi web dan mobile yang bersih, responsif, dan berperforma tinggi.</p>
 
   <p align="center">
     <a href="mailto:suwitowito294@gmail.com"><img src="https://img.shields.io/badge/Email-suwitowito294%40gmail.com-blue?style=flat&logo=gmail&logoColor=white&color=0078D4" alt="Email"></a>
@@ -41,6 +44,7 @@
 </p>
 
 <p align="center">
+  <!-- ANIMASI STREAK DENGAN GRADASI TERBARU -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itoo28&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px" />
 </p>
 
